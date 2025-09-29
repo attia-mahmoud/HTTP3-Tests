@@ -1,0 +1,19 @@
+{
+    "role": "client",
+    "client": "client",
+    "server": "server",
+    "controller_conf_filename": "controller_configuration.json",
+    "host": "0.0.0.0",
+    "port": "8080",
+    "client_frames": [
+        {
+            "type": "HEADERS",
+            "headers": {
+              ":method": "GET",
+              ":scheme": "http",
+              ":path": "/",
+              ":authority": "example.com"
+            }
+        }
+    ]
+}
