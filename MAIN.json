@@ -176,7 +176,7 @@
           "type": "get_from_file (variables client_frames) (client_frames)"
         },
         {
-          "type": "send_client_frames (client client_frames) (event sent_frames result)"
+          "type": "send_http_3_client_frames (client client_frames) (event sent_frames result)"
         },
         {
           "type": "trigger (event)"
