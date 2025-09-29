@@ -1,0 +1,6 @@
+{
+    "ROOT_CERTIFICATE": "../../../certs/root_ca.crt",
+    "PRIVATE_CERTIFICATE": "../../../certs/endpoint2.pem",
+    "DESTINATION_IP": "localhost",
+    "SERVER_PORT": "4430"
+}
